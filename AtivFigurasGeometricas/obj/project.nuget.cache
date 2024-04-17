@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PAeHmBcQpMeisIBccyZVPqw3Jm8qpUfs2t1TWyuE0LVvG6lkztZaw5VRjPjVufKeLux8qgCY9m4gIx7/3TnZKA==",
+  "success": true,
+  "projectFilePath": "E:\\Trabalhos Puc\\Programacao Orientada a Objeto\\AtivFigurasGeometricas\\AtivFigurasGeometricas\\AtivFigurasGeometricas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus Canuto\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Matheus Canuto\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Matheus Canuto\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Matheus Canuto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
